@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sign_out"
+            android:title="@string/action_sign_out" />
+        <item
+            android:id="@+id/nav_get_member_list"
+            android:title="@string/action_get_member_list" />
+        <item
+            android:id="@+id/nav_create_member"
+            android:title="@string/action_create_member" />
+    </group>
+
+</menu>
